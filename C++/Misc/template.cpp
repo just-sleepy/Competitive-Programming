@@ -6,6 +6,7 @@
 #define pb push_back
 #define sws cin.tie(0)->sync_with_stdio(false);
 #define endl '\n'
+#define TETO(a, b) ((a) + (b-1))/b
 
 using namespace std;
 
